@@ -33,6 +33,62 @@
 
 <br><br>
 
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+<hr>
+
+<h3 align="center">Featured Projects ⭐</h3>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tu-usuario/maha">
+        <img src="https://raw.githubusercontent.com/tu-usuario/maha/main/assets/maha.png" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h4>🧠 MAHA — Academic Risk Detection System</h4>
+      <p>
+        Data-driven software project designed to help identify student dropout risk
+        in engineering programs. Includes algorithmic analysis and a graphical interface
+        for personalized academic support.
+      </p>
+      <p>
+        <b>Tech:</b> Python, PySide6, Algorithms
+      </p>
+      <a href="https://github.com/tu-usuario/maha">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+<table align="center">
+  <tr>
+    <td width="45%" align="center">
+      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros">
+        <img src="https://raw.githubusercontent.com/tu-usuario/mauricio-el-salta-muros/main/assets/mauricio.png" width="100%" />
+      </a>
+    </td>
+    <td width="55%" valign="top">
+      <h4>🎮 Mauricio el Salta Muros</h4>
+      <p>
+        Pixel-art platformer game inspired by classic arcade mechanics.
+        Focused on game logic, collision handling, and level progression.
+      </p>
+      <p>
+        <b>Tech:</b> Game Logic, Programming Fundamentals
+      </p>
+      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros">🔗 Repository</a>
+    </td>
+  </tr>
+</table>
+
+<br><br>
+
+
 <!-- ===================== TECHNOLOGIES ===================== -->
 <hr>
 
