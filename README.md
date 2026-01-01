@@ -44,7 +44,7 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tu-usuario/maha">
+      <a href="https://github.com/Setzedich/MAHA">
         <img src="https://raw.githubusercontent.com/tu-usuario/maha/main/assets/maha.png" width="100%" />
       </a>
     </td>
