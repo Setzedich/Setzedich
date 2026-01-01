@@ -33,7 +33,6 @@
 
 <br><br>
 
-
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <hr>
 
@@ -44,8 +43,8 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/Setzedich/MAHA">
-        <img src="https://raw.githubusercontent.com/tu-usuario/maha/main/assets/maha.png" width="100%" />
+      <a href="https://github.com/Setzedich/MAHA" target="_blank">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" />
       </a>
     </td>
     <td width="55%" valign="top">
@@ -58,7 +57,7 @@
       <p>
         <b>Tech:</b> Python, PySide6, Algorithms
       </p>
-      <a href="https://github.com/tu-usuario/maha">🔗 Repository</a>
+      <a href="https://github.com/Setzedich/MAHA" target="_blank">🔗 View Repository</a>
     </td>
   </tr>
 </table>
@@ -68,7 +67,7 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros">
+      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros" target="_blank">
         <img src="https://raw.githubusercontent.com/tu-usuario/mauricio-el-salta-muros/main/assets/mauricio.png" width="100%" />
       </a>
     </td>
@@ -79,15 +78,14 @@
         Focused on game logic, collision handling, and level progression.
       </p>
       <p>
-        <b>Tech:</b> Game Logic, Programming Fundamentals
+        <b>Tech:</b> C, Game Logic, Programming Fundamentals
       </p>
-      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros">🔗 Repository</a>
+      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros" target="_blank">🔗 View Repository</a>
     </td>
   </tr>
 </table>
 
 <br><br>
-
 
 <!-- ===================== TECHNOLOGIES ===================== -->
 <hr>
