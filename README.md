@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
+
+
 <!-- ===================== HEADER ===================== -->
 <h2 align="center">
   Hi, I'm <b>Marlon Molina</b> 👋🏻
@@ -36,15 +38,20 @@
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <hr>
 
-<h3 align="center">Featured Projects </h3>
+<h3 align="center">Featured Projects ⭐</h3>
 
 <br>
 
+<!-- ===== MAHA ===== -->
 <table align="center">
   <tr>
     <td width="45%" align="center">
       <a href="https://github.com/Setzedich/MAHA" target="_blank">
-        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" />
+        <img 
+          src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" 
+          width="100%" 
+          alt="MAHA Project"
+        />
       </a>
     </td>
     <td width="55%" valign="top">
@@ -64,11 +71,16 @@
 
 <br><br>
 
+<!-- ===== MAURICIO ===== -->
 <table align="center">
   <tr>
     <td width="45%" align="center">
       <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">
-        <img src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/icono.png" width="100%" />
+        <img 
+          src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/backgrounds/maurico%20github.png"
+          width="100%"
+          alt="Mauricio el Salta Muros - Pixel Art Game"
+        />
       </a>
     </td>
     <td width="55%" valign="top">
@@ -81,7 +93,9 @@
       <p>
         <b>Tech:</b> C, Raylib, Game Development
       </p>
-      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">🔗 View Repository</a>
+      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">
+        🔗 View Repository
+      </a>
     </td>
   </tr>
 </table>
