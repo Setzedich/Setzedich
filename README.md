@@ -36,7 +36,7 @@
 <!-- ===================== FEATURED PROJECTS ===================== -->
 <hr>
 
-<h3 align="center">Featured Projects ⭐</h3>
+<h3 align="center">Featured Projects </h3>
 
 <br>
 
@@ -67,20 +67,21 @@
 <table align="center">
   <tr>
     <td width="45%" align="center">
-      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros" target="_blank">
-        <img src="https://raw.githubusercontent.com/tu-usuario/mauricio-el-salta-muros/main/assets/mauricio.png" width="100%" />
+      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/icono.png" width="100%" />
       </a>
     </td>
     <td width="55%" valign="top">
       <h4>🎮 Mauricio el Salta Muros</h4>
       <p>
-        Pixel-art platformer game inspired by classic arcade mechanics.
-        Focused on game logic, collision handling, and level progression.
+        2D pixel-art platformer inspired by classic arcade games, developed in C.
+        Focused on game logic, collision handling, animations, and level progression,
+        with Mexican culture–inspired visuals and music.
       </p>
       <p>
-        <b>Tech:</b> C, Game Logic, Programming Fundamentals
+        <b>Tech:</b> C, Raylib, Game Development
       </p>
-      <a href="https://github.com/tu-usuario/mauricio-el-salta-muros" target="_blank">🔗 View Repository</a>
+      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">🔗 View Repository</a>
     </td>
   </tr>
 </table>
