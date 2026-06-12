@@ -1,131 +1,198 @@
-<!-- ===================== DIVIDER ===================== -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-
-
-<!-- ===================== HEADER ===================== -->
-<h2 align="center">
-  Hi, I'm <b>Marlon Molina</b> 👋🏻
-</h2>
+<!-- WAVE TOP -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:007ACC,100:1F2937&height=135&section=header&text=Marlon%20Molina&fontSize=42&fontColor=F0F6FC&fontAlignY=55&animation=fadeIn&desc=Cybernetics%20Engineering%20in%20Computer%20Systems&descAlignY=78&descSize=14&descColor=C9D1D9" width="100%"/>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=17&pause=1200&color=1F6FEB&center=true&vCenter=true&width=650&lines=Cybernetics+Engineering+Student;Computer+Systems+Focus;Competitive+Programmer">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=4FC3F7&center=true&vCenter=true&width=750&lines=Cybernetics+Engineering+in+Computer+Systems;Competitive+Programmer+%7C+Algorithms+%26+Data+Structures;Building+real+software%2C+constantly+improving.;Problem+Solver+%7C+Systems+Thinker+%7C+Lifelong+Learner" />
 </p>
 
-<br><br>
+<br>
 
-<!-- ===================== ABOUT ME ===================== -->
-## About Me
+---
+
+<!-- ABOUT ME -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=4FC3F7&center=true&vCenter=true&width=500&lines=%3E+ABOUT+ME" />
+</p>
 
 <br>
 
-<picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px">
-</picture>
+```python
+class MarlonMolina:
+    def __init__(self):
+        self.role     = "Cybernetics Engineering Student"
+        self.focus    = "Computer Systems"
+        self.language = ["C", "C++", "Python", "Java", "JavaScript", "SQLite"]
+        self.passion  = ["Competitive Programming",
+                         "Algorithms & Data Structures",
+                         "Software Development"]
 
-- 🎓 **Cybernetics Engineering Student in Computer Systems**
-- 💻 **Competitive Programmer** with strong algorithmic foundations
-- 🧠 Interested in problem solving, software systems, and computational thinking
-- 📚 Focused on **data structures, algorithms, and software development**
-- 🚀 Constantly learning and improving through real technical challenges
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something great.")
 
-<br><br>
+me = MarlonMolina()
+me.say_hi()
+```
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
-<hr>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1200&color=8B949E&center=true&vCenter=true&width=700&lines=%24+specialties+%3D+%5BAlgorithms%2C+Data+Structures%2C+Software+Development%5D;%24+mindset+%3D+%22Build.+Learn.+Improve.%22" />
+</p>
 
-<h3 align="center">Featured Projects ⭐</h3>
-
-<br>
-
-<!-- ===== MAHA ===== -->
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="4">
   <tr>
-    <td width="45%" align="center">
-      <a href="https://github.com/Setzedich/MAHA" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" 
-          width="100%" 
-          alt="MAHA Project"
-        />
+    <td align="right"><code>role</code></td>
+    <td><b>Cybernetics Engineering Student</b> — Computer Systems focus</td>
+  </tr>
+  <tr>
+    <td align="right"><code>profile</code></td>
+    <td><b>Competitive Programmer</b> with strong algorithmic foundations</td>
+  </tr>
+  <tr>
+    <td align="right"><code>interest</code></td>
+    <td>Problem solving, software systems, and computational thinking</td>
+  </tr>
+  <tr>
+    <td align="right"><code>focus</code></td>
+    <td><b>Data structures, algorithms, and software development</b></td>
+  </tr>
+  <tr>
+    <td align="right"><code>mindset</code></td>
+    <td>Constantly learning and improving through real technical challenges</td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<!-- FEATURED PROJECTS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=4FC3F7&center=true&vCenter=true&width=650&lines=%3E+FEATURED+PROJECTS" />
+</p>
+
+<br>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/Setzedich/MAHA">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" alt="MAHA Project"/>
       </a>
     </td>
-    <td width="55%" valign="top">
-      <h4>🧠 MAHA — Academic Risk Detection System</h4>
+    <td width="58%" valign="top">
+      <h3>MAHA — Academic Risk Detection System</h3>
       <p>
-        Data-driven software project designed to help identify student dropout risk
-        in engineering programs. Includes algorithmic analysis and a graphical interface
-        for personalized academic support.
+        Data-driven software designed to identify student dropout risk
+        in engineering programs. Includes algorithmic analysis and a graphical
+        interface for personalized academic support.
       </p>
       <p>
-        <b>Tech:</b> Python, PySide6, Algorithms
+        <img src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySide6-1F2937?style=flat-square&logo=qt&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=thealgorithms&logoColor=4FC3F7"/>
       </p>
-      <a href="https://github.com/Setzedich/MAHA" target="_blank">🔗 View Repository</a>
+      <p>
+        <a href="https://github.com/Setzedich/MAHA">
+          <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-<br><br>
+<br>
 
-<!-- ===== MAURICIO ===== -->
-<table align="center">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
-    <td width="45%" align="center">
-      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">
-        <img 
-          src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/backgrounds/maurico%20github.png"
-          width="100%"
-          alt="Mauricio el Salta Muros - Pixel Art Game"
-        />
+    <td width="42%" align="center">
+      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/backgrounds/maurico%20github.png" width="100%" alt="Mauricio el Salta Muros"/>
       </a>
     </td>
-    <td width="55%" valign="top">
-      <h4>🎮 Mauricio el Salta Muros</h4>
+    <td width="58%" valign="top">
+      <h3>Mauricio el Salta Muros</h3>
       <p>
         2D pixel-art platformer inspired by classic arcade games, developed in C.
         Focused on game logic, collision handling, animations, and level progression,
         with Mexican culture–inspired visuals and music.
       </p>
       <p>
-        <b>Tech:</b> C, Raylib, Game Development
+        <img src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raylib-1F2937?style=flat-square&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Game%20Development-0D1117?style=flat-square&logo=unity&logoColor=4FC3F7"/>
       </p>
-      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-" target="_blank">
-        🔗 View Repository
-      </a>
+      <p>
+        <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
+          <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
-<br><br>
-
-<!-- ===================== TECHNOLOGIES ===================== -->
-<hr>
-
-<h3 align="center">Technologies 👨🏻‍💻</h3>
-
 <br>
 
+---
+
+<!-- TECHNOLOGIES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,github,vscode&perline=6" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=4FC3F7&center=true&vCenter=true&width=550&lines=%3E+TECHNOLOGIES" />
 </p>
 
-<br><br>
+<br>
 
-<!-- ===================== CONTACT ===================== -->
-<hr>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,sqlite,github,vscode&perline=8" />
+</p>
 
-<h3 align="center">Connect With Me 🤝🏻</h3>
+<br>
+
+---
+
+<!-- ACTIVITY & STATS -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=900&color=4FC3F7&center=true&vCenter=true&width=650&lines=%3E+ACTIVITY+%26+STATS" />
+</p>
 
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marlon-molina-rodriguez/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Setzedich&show_icons=true&theme=github_dark&hide_border=true&title_color=4FC3F7&icon_color=007ACC&text_color=C9D1D9&bg_color=0D1117" />
+  &nbsp;
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setzedich&layout=compact&theme=github_dark&hide_border=true&title_color=4FC3F7&text_color=C9D1D9&bg_color=0D1117" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Setzedich&theme=github-dark-blue&hide_border=true&stroke=30363D&ring=007ACC&fire=4FC3F7&currStreakLabel=4FC3F7&background=0D1117&sideLabels=C9D1D9&dates=8B949E" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Setzedich&bg_color=0D1117&color=C9D1D9&line=007ACC&point=4FC3F7&area=true&area_color=007ACC&hide_border=true" width="95%"/>
+</p>
+
+<br>
+
+---
+
+<!-- CONNECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2200&pause=900&color=4FC3F7&center=true&vCenter=true&width=600&lines=%3E+CONNECT+WITH+ME" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/marlon-molina-rodriguez/">
+    <img src="https://img.shields.io/badge/LinkedIn-Marlon%20Molina-007ACC?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
 </p>
 
-<br><br>
+<br>
+
+<!-- WAVE BOTTOM -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F2937,45:007ACC,100:0D1117&height=100&section=footer&animation=fadeIn" width="100%"/>
