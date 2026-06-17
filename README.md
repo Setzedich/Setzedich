@@ -133,6 +133,53 @@ me.say_hi()
 
 <br>
 
+<details align="center">
+  <summary>
+    <b>View More Projects</b>
+  </summary>
+
+<br>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/Setzedich/Quantum-voice-classifier">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Setzedich&repo=Quantum-voice-classifier&theme=github_dark&hide_border=true&title_color=4FC3F7&icon_color=007ACC&text_color=C9D1D9&bg_color=0D1117" width="100%" alt="Quantum Voice Classifier"/>
+      </a>
+    </td>
+    <td width="58%" valign="top">
+      <h3>Quantum Voice Classifier</h3>
+      <p>
+        Python and Streamlit application for voice classification using audio processing,
+        MFCC features, and a quantum machine learning model with PennyLane.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-1F2937?style=flat-square&logo=streamlit&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/PennyLane-0D1117?style=flat-square&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Quantum%20ML-007ACC?style=flat-square&logoColor=white"/>
+      </p>
+      <p>
+        <a href="https://github.com/Setzedich/Quantum-voice-classifier">
+          <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Setzedich?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+  </a>
+</p>
+
+</details>
+
+<br>
+
 ---
 
 <!-- TECHNOLOGIES -->
