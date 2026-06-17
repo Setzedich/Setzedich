@@ -144,7 +144,7 @@ me.say_hi()
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/Setzedich/Quantum-voice-classifier">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Setzedich&repo=Quantum-voice-classifier&theme=github_dark&hide_border=true&title_color=4FC3F7&icon_color=007ACC&text_color=C9D1D9&bg_color=0D1117" width="100%" alt="Quantum Voice Classifier"/>
+        <img src="https://raw.githubusercontent.com/Setzedich/Quantum-voice-classifier/main/quantum-voice-classifier-banner.png" width="100%" alt="Quantum Voice Classifier"/>
       </a>
     </td>
     <td width="58%" valign="top">
