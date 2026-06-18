@@ -76,24 +76,24 @@ me.say_hi()
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="42%" align="center">
-      <a href="https://github.com/Setzedich/MAHA">
-        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" alt="MAHA Project"/>
+      <a href="https://github.com/Setzedich/Quantum-voice-classifier">
+        <img src="https://raw.githubusercontent.com/Setzedich/Quantum-voice-classifier/main/quantum-voice-classifier-banner.png" width="100%" alt="Quantum Voice Classifier"/>
       </a>
     </td>
-    <td width="58%" valign="top">
-      <h3>MAHA — Academic Risk Detection System</h3>
-      <p>
-        Data-driven software designed to identify student dropout risk
-        in engineering programs. Includes algorithmic analysis and a graphical
-        interface for personalized academic support.
+    <td width="58%" valign="middle" align="center">
+      <h3 align="center">Quantum Voice Classifier</h3>
+      <p align="center">
+        Python and Streamlit application for voice classification using audio processing,
+        MFCC features, and a quantum machine learning model with PennyLane.
       </p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PySide6-1F2937?style=flat-square&logo=qt&logoColor=4FC3F7"/>
-        <img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=thealgorithms&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Streamlit-1F2937?style=flat-square&logo=streamlit&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/PennyLane-0D1117?style=flat-square&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Quantum%20ML-007ACC?style=flat-square&logoColor=white"/>
       </p>
-      <p>
-        <a href="https://github.com/Setzedich/MAHA">
+      <p align="center">
+        <a href="https://github.com/Setzedich/Quantum-voice-classifier">
           <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
         </a>
       </p>
@@ -106,24 +106,27 @@ me.say_hi()
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="42%" align="center">
-      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
-        <img src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/backgrounds/maurico%20github.png" width="100%" alt="Mauricio el Salta Muros"/>
+      <a href="https://github.com/Setzedich/Artemis-mission-simulation">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:007ACC,100:1F2937&height=220&section=header&text=Artemis%20Mission%20Simulation&fontSize=28&fontColor=F0F6FC&fontAlignY=45&desc=Parametric%20Cubic%20Splines%20%7C%203D%20Trajectory%20%7C%20Telemetry&descAlignY=65&descSize=13&descColor=C9D1D9" width="100%" alt="Artemis Mission Simulation"/>
       </a>
     </td>
-    <td width="58%" valign="top">
-      <h3>Mauricio el Salta Muros</h3>
-      <p>
-        2D pixel-art platformer inspired by classic arcade games, developed in C.
-        Focused on game logic, collision handling, animations, and level progression,
-        with Mexican culture–inspired visuals and music.
+    <td width="58%" valign="middle" align="center">
+      <h3 align="center">Artemis Mission Simulation</h3>
+      <p align="center">
+        Interactive Artemis II mission simulator built with Python and Streamlit.
+        It models a free-return lunar trajectory using parametric cubic splines,
+        providing 3D/2D visualizations, real-time telemetry, orbital controls,
+        and CSV export of mission data.
       </p>
-      <p>
-        <img src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Raylib-1F2937?style=flat-square&logoColor=4FC3F7"/>
-        <img src="https://img.shields.io/badge/Game%20Development-0D1117?style=flat-square&logo=unity&logoColor=4FC3F7"/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Streamlit-1F2937?style=flat-square&logo=streamlit&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Plotly-0D1117?style=flat-square&logo=plotly&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/NumPy-007ACC?style=flat-square&logo=numpy&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Numerical%20Methods-1F2937?style=flat-square&logoColor=4FC3F7"/>
       </p>
-      <p>
-        <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
+      <p align="center">
+        <a href="https://github.com/Setzedich/Artemis-mission-simulation">
           <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
         </a>
       </p>
@@ -143,24 +146,54 @@ me.say_hi()
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
   <tr>
     <td width="42%" align="center">
-      <a href="https://github.com/Setzedich/Quantum-voice-classifier">
-        <img src="https://raw.githubusercontent.com/Setzedich/Quantum-voice-classifier/main/quantum-voice-classifier-banner.png" width="100%" alt="Quantum Voice Classifier"/>
+      <a href="https://github.com/Setzedich/MAHA">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" alt="MAHA Project"/>
       </a>
     </td>
-    <td width="58%" valign="top">
-      <h3>Quantum Voice Classifier</h3>
-      <p>
-        Python and Streamlit application for voice classification using audio processing,
-        MFCC features, and a quantum machine learning model with PennyLane.
+    <td width="58%" valign="middle" align="center">
+      <h3 align="center">MAHA — Academic Risk Detection System</h3>
+      <p align="center">
+        Data-driven software designed to identify student dropout risk
+        in engineering programs. Includes algorithmic analysis and a graphical
+        interface for personalized academic support.
       </p>
-      <p>
+      <p align="center">
         <img src="https://img.shields.io/badge/Python-007ACC?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Streamlit-1F2937?style=flat-square&logo=streamlit&logoColor=4FC3F7"/>
-        <img src="https://img.shields.io/badge/PennyLane-0D1117?style=flat-square&logoColor=4FC3F7"/>
-        <img src="https://img.shields.io/badge/Quantum%20ML-007ACC?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PySide6-1F2937?style=flat-square&logo=qt&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&logo=thealgorithms&logoColor=4FC3F7"/>
       </p>
-      <p>
-        <a href="https://github.com/Setzedich/Quantum-voice-classifier">
+      <p align="center">
+        <a href="https://github.com/Setzedich/MAHA">
+          <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
+        <img src="https://raw.githubusercontent.com/Setzedich/MAURICIO-SALTA-MUROS-/main/backgrounds/maurico%20github.png" width="100%" alt="Mauricio el Salta Muros"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle" align="center">
+      <h3 align="center">Mauricio el Salta Muros</h3>
+      <p align="center">
+        2D pixel-art platformer inspired by classic arcade games, developed in C.
+        Focused on game logic, collision handling, animations, and level progression,
+        with Mexican culture–inspired visuals and music.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C-007ACC?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Raylib-1F2937?style=flat-square&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/Game%20Development-0D1117?style=flat-square&logo=unity&logoColor=4FC3F7"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Setzedich/MAURICIO-SALTA-MUROS-">
           <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
         </a>
       </p>
