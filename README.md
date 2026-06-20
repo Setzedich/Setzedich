@@ -203,6 +203,39 @@ me.say_hi()
 
 <br>
 
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td width="42%" align="center">
+      <a href="https://github.com/Setzedich/Mexican-Japanese-restaurant-interface">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:007ACC,100:1F2937&height=220&section=header&text=Mexican-Japanese%20Restaurant&fontSize=26&fontColor=F0F6FC&fontAlignY=45&desc=Java%20Swing%20%7C%20SQLite%20%7C%20Desktop%20Application&descAlignY=65&descSize=13&descColor=C9D1D9" width="100%" alt="Mexican-Japanese Restaurant Interface"/>
+      </a>
+    </td>
+    <td width="58%" valign="middle" align="center">
+      <h3 align="center">Mexican-Japanese Restaurant Interface</h3>
+      <p align="center">
+        Java Swing desktop application for managing a Mexican-Japanese restaurant.
+        Includes customer, employee, and administrator panels, menu visualization,
+        shopping cart functionality, order management, SQLite database connection,
+        and multimedia support.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-007ACC?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java%20Swing-1F2937?style=flat-square&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=4FC3F7"/>
+        <img src="https://img.shields.io/badge/JDBC-007ACC?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Desktop%20App-1F2937?style=flat-square&logoColor=4FC3F7"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Setzedich/Mexican-Japanese-restaurant-interface">
+          <img src="https://img.shields.io/badge/View%20Repository-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
   <a href="https://github.com/Setzedich?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-007ACC?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
