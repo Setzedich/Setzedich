@@ -107,7 +107,7 @@ me.say_hi()
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/Setzedich/Artemis-mission-simulation">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:007ACC,100:1F2937&height=220&section=header&text=Artemis%20Mission%20Simulation&fontSize=28&fontColor=F0F6FC&fontAlignY=45&desc=Parametric%20Cubic%20Splines%20%7C%203D%20Trajectory%20%7C%20Telemetry&descAlignY=65&descSize=13&descColor=C9D1D9" width="100%" alt="Artemis Mission Simulation"/>
+        <img src="https://raw.githubusercontent.com/Setzedich/Artemis-mission-simulation/main/artemiswall.png" width="100%" alt="Artemis Mission Simulation"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="center">
@@ -147,7 +147,7 @@ me.say_hi()
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/Setzedich/MAHA">
-        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/main/assets/maha.png" width="100%" alt="MAHA Project"/>
+        <img src="https://github.com/Setzedich/MAHA/blob/main/mahawall.png?raw=true" width="100%" alt="MAHA Project"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="center">
@@ -207,7 +207,7 @@ me.say_hi()
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/Setzedich/Mexican-Japanese-restaurant-interface">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:007ACC,100:1F2937&height=220&section=header&text=Mexican-Japanese%20Restaurant&fontSize=26&fontColor=F0F6FC&fontAlignY=45&desc=Java%20Swing%20%7C%20SQLite%20%7C%20Desktop%20Application&descAlignY=65&descSize=13&descColor=C9D1D9" width="100%" alt="Mexican-Japanese Restaurant Interface"/>
+        <img src="https://raw.githubusercontent.com/Setzedich/Mexican-Japanese-restaurant-interface/main/restaurantewall.png" width="100%" alt="Mexican-Japanese Restaurant Interface"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="center">
