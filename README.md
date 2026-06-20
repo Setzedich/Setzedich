@@ -147,7 +147,7 @@ me.say_hi()
   <tr>
     <td width="42%" align="center">
       <a href="https://github.com/Setzedich/MAHA">
-        <img src="https://github.com/Setzedich/MAHA/blob/main/mahawall.png?raw=true" width="100%" alt="MAHA Project"/>
+        <img src="https://raw.githubusercontent.com/Setzedich/MAHA/master/mahawall.png" width="100%" alt="MAHA Project"/>
       </a>
     </td>
     <td width="58%" valign="middle" align="center">
