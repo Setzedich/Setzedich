@@ -271,9 +271,9 @@ me.say_hi()
 <br>
 
 <p align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Setzedich&show_icons=true&theme=github_dark&hide_border=true&title_color=4FC3F7&icon_color=007ACC&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=Setzedich&show_icons=true&theme=github_dark&hide_border=true&title_color=4FC3F7&icon_color=007ACC&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800" />
   &nbsp;
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setzedich&layout=compact&theme=github_dark&hide_border=true&title_color=4FC3F7&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Setzedich&layout=compact&theme=github_dark&hide_border=true&title_color=4FC3F7&text_color=C9D1D9&bg_color=0D1117&cache_seconds=1800&hide=html,css" />
 </p>
 
 <br>
